@@ -1,6 +1,7 @@
-- 👋 Hey there! I’m Philip Trostli!
-============================================================================================
-Software Engineer 
+Hi 👋 My name is Philip Trostli
+===============================
+
+Software Engineer
 -----------------
 - 🌎 I'm based in Massachusetts, but grew up in Brazil.
 - 📨 You can reach me through email: [philip@trostli.net](mailto:philip@trostli.net)
